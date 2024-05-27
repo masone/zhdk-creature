@@ -2,7 +2,7 @@
 
 Ausgangspunkt für die Coding-Challenge des ersten CAS Coding for the Arts Hackathon vom 1. Juni 2024. 
 
-## Aufgabenstellung
+## Aufgabenstellung
 
 1. stelle eine Kreatur her
 2. präsentiere die Kreatur ab 16 Uhr
@@ -18,7 +18,7 @@ Bewertet werden (durch alle Anwesenden) folgende Eigenschaften:
 - unerwartete , überraschende Aspekte
 - humorisitsches Potential
 
-## Spielregeln
+## Spielregeln
 
 - keine KI-Hilfsmittel
 - max. 2 Personen pro Projekt
