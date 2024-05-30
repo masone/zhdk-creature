@@ -9,8 +9,8 @@ Ausgangspunkt für die Coding-Challenge des ersten CAS Coding for the Arts Hacka
   - Wie bewegt sie sich?
   - entwickelt/verändert sie sich?
 2. präsentiere die Kreatur ab 16 Uhr
-  - Beschreibung
-  - Begründung, warum es gewinnen sollte. 
+  - Beschreibung/Demo
+  - kurze Begründung, warum es gewinnen sollte. 
 
 ## Kriterien
 
@@ -23,5 +23,5 @@ Am Ende bewerten wir gemeinsam folgende Eigenschaften:
 
 ## Spielregeln
 
-- max. 2 Personen pro Projekt
+- kein ready-made ChatGPT-Code
 - Co-Pilot ja, Chat-GPT nein
