@@ -1,3 +1,11 @@
+/*
+// Als Ausgangspunkt schlagen wir eine Kreatur-Klasse mit
+// einigen Methoden vor. Wenn du es anders machen möchtest,
+// kannst du es auch komplett anders machen.
+// 
+// Wenn du Fragen zum Code hast, helfen dir Vera und Josef. 
+*/
+
 let kreatur;
 
 function setup() {
@@ -8,4 +16,8 @@ function setup() {
 function draw() {
   background(220);
   kreatur.display();
+}
+
+function mousePressed() {
+  kreatur.move();
 }

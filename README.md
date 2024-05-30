@@ -4,7 +4,7 @@ Ausgangspunkt für die Coding-Challenge des ersten CAS Coding for the Arts Hacka
 
 ## Aufgabenstellung
 
-1. stelle eine Kreatur her
+1. programmiere eine Kreatur
   - Wie sieht sie aus?
   - Wie bewegt sie sich?
   - entwickelt/verändert sie sich?

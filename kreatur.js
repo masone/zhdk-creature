@@ -8,7 +8,10 @@ class Kreatur {
   }
 
   display() {
+    push();
+    noFill();
     ellipse(this.position.x, this.position.y, this.size);
+    pop();
   }
 
   move() {
