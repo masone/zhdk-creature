@@ -4,13 +4,13 @@ Ausgangspunkt für die Coding-Challenge des ersten CAS Coding for the Arts Hacka
 
 ## Aufgabenstellung
 
-1. programmiere eine Kreatur
+1. Programmiere eine Kreatur
   - Wie sieht sie aus?
   - Wie bewegt sie sich?
   - entwickelt/verändert sie sich?
-2. präsentiere die Kreatur ab 16 Uhr
+    Präsentiere die Kreatur ab 16 Uhr
   - Beschreibung/Demo
-  - kurze Begründung, warum es gewinnen sollte. 
+  - Kurze Begründung, warum es gewinnen sollte. 
 
 ## Kriterien
 
@@ -18,10 +18,10 @@ Am Ende bewerten wir gemeinsam folgende Eigenschaften:
 
 - Charakter
 - Cuteness
-- unerwartete, überraschende Aspekte
-- humorisitsches Potential
+- Unerwartete, überraschende Aspekte
+- Humorisitsches Potential
 
 ## Spielregeln
 
-- kein ready-made ChatGPT-Code
+- Kein ready-made ChatGPT-Code
 - Co-Pilot ja, Chat-GPT nein
