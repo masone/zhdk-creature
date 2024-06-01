@@ -1,7 +1,7 @@
 class Creature {
   constructor(topLeftX, topLeftY, gridSize, color) {
     this.color = color;
-    this.eyeSize = random(2, gridSize/4)
+    this.eyeSize = random(2, 3)
     this.gridSize = gridSize
     this.visible = true
     this.topLeftX = topLeftX
