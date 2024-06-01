@@ -24,3 +24,7 @@ Am Ende bewerten wir gemeinsam folgende Eigenschaften:
 
 - Kein ready-made ChatGPT-Code
 - Co-Pilot ja, Chat-GPT nein
+
+## Demo
+
+https://masone.github.io/zhdk-creature/
