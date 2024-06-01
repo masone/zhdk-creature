@@ -16,8 +16,7 @@ Ausgangspunkt für die Coding-Challenge des ersten CAS Coding for the Arts Hacka
 
 Am Ende bewerten wir gemeinsam folgende Eigenschaften:
 
-- Charakter
-- Cuteness
+- Charakter/Cuteness
 - Unerwartete, überraschende Aspekte
 - Humorisitsches Potential
 
